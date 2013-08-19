@@ -1,5 +1,6 @@
-kevingimbel.de
+kevingimbel.de [closed]
 ==============
-This is the source code of my [portfolio][1].
-I'll push all changes and new versions to this repo.
-[1]: http://kevingimbel.de
+Source Code of my old Portfolio, the Source Code of my new can be found [here][1] and the Portfolio itself [here][2]
+
+[1]: https://github.com/kevingimbel/kevingimbel.github.io/
+[2]: http://kevingimbel.com/
